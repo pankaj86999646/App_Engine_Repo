@@ -1,8 +1,10 @@
 language: python
+cache:
+  directories:
+    - $HOME/google-cloud-sdk
 install:
-  - curl https://sdk.cloud.google.com | bash
-  - exec -l $SHELL
-  - gcloud version
+  - if [ ! -d $HOME/google-cloud-sdk ]; then curl https://sdk.cloud.google.com | bash; fi
+  - source $HOME/google-cloud-sdk/path.bash.inc
 deploy:
   provider: gae
   keyfile: JSON
