@@ -4,6 +4,7 @@ deploy:
   provider: gae
   keyfile: JSON
   key: private_key
+  project name: project
   edge: true
   on:
     branch: main
