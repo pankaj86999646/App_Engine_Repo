@@ -1,5 +1,9 @@
 
 language: python
+install:
+  - curl https://sdk.cloud.google.com | bash
+  - exec -l $SHELL
+  - gcloud version
 deploy:
   provider: gae
   keyfile: JSON
