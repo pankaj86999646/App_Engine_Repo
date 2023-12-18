@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "travis-console-test",
+  "private_key_id": "b6ecbfc4d378d923dd203dc040c1b1a761a1d896",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQClNxLuSCSwuOT8\ntyafoIQ48TmRZYJ9Y1tCXUfcwO228ypZ9Y/WhurQmvJrY+xUSysAifl3RjjPhfdV\nm2D4H8TeoMuQnLzMLPE1l9rf/Do3opmP7ZS3zm+N/5/uIq0dhzu7Qx17GV7haFwY\nQ/171P7OIjQX2WBGl7XPjoKPD+pYhLA6eMHDvpEQC8Q7HoHk4RUQ8caPnneTFW3P\nUf5pDAOi9hF8ONr9PzGN1wbQvr/yP6wU6N2hlGIU7RAvKH1m0KSGZ5XIHe76zH2e\nUcwSxmObp3i0I/P3faUKUpaHmNVoAFtoXpTxQIHgTbBCpjicPhngRfg0Qcj1ThxC\nVQlCxG8DAgMBAAECggEARfipP9m2EFJ+SLmY1go5dZRUeUuwlEI8KEMxaEEdbFpY\nGXlyzbyePnMhMHJFaP3c3IGS8fz/moR2V/9SdkOeMVuQW1LGcwKltbj2rd45Gc73\nkolgbugzPsSAi26MOvFHTuwB1FzOXlDAkFZbSNLQh6Tcwy0BJWSjT6Bfkw9+hLYf\nZpDrNOds+HTX6AqodgSrFVTFQ3vFojadW59AHJnwlvZg/uHifl0ySPxaDub3RpKb\n+teVHBA5ymA1i3ufabeP3Oy0LMxwg01zAu74YKZ2J7YUCrYNcC52LWG3RY7Dx40W\n58gLRNvG/KEMRxTKfNB7uPX5PhfnqoVp2UA0hFR44QKBgQDP8/JG7F/UIoFZhZuz\nvXOJkI2/g9on7XOMLvuS3F/hz13C1XidQtxUZdG+LJZ3pjDcJS6Bi8MQU2P2VZLi\nj2ztAIH/KxRLGzrdn+pYE5V388oMfj1UPgalDV4cGMZUQEZP+CRC9LcsT6GxBxyW\nvc5XS4YV824DgJLKqq3OIJV+TQKBgQDLY0MPZGyhHJltzMRJHKUPAaDEKCDBJfGS\n8zGHlujiQHBHXzBiB0YeSgL347bj7yTjN9Ieg6K03QCZD0C5czwUTeNdV30jyJED\naqqkOCobOkD/vPJRTnB8K89bok5Xe1FuOseXjuZE2VBPSf1jSJ+3R0uwCpWER9wm\nZzGjDlNqjwKBgGq4NbDiI7e5UYqAv8w5QK7raWNMpktxV6gsgFz5DZfUFLklVnXW\nVz5U1pPzS/DxcAe6aSiAckXRle5YMj5k/rCOXyh1kj+NJOOR6vDyc/WQPjO1IYI3\nJq/TsWVX7YhVSABIR0u5TLvHziIMlUZi+B7imlhvihjwBeVOPE4ZeL7NAoGBAKdo\n9PHef2u91qyCN67WXSaU+Hd9cDiLuuRyOPqaROa2k7SrrW+C/TxBP2A7l3bWiU5d\nzB5By9ODddKGs4fySimMUvGp6d9iX7qoOf0iHcZ7lLTsGajDH+OVTADpAAMSBlzt\nFQyzGubg2THqfR8T0CNUFAC7NYbEf3k8x6anTBIRAoGBAIEx+auCe8XLfz2gB5+0\n0VCo9YCbXM8WNGhSaLJiuLwYJQ6ezR0vuSfFIvveY2PtBS7PS0Bm62xDyyIHD+Jt\nyTDiHBINyuee8MUhTj14wxA2FQiRNUewwF+CoBwtvld/caGq5zAu/R0SXJlp3w1L\nvHZdaEgiH2WhED7CkvF9P+/V\n-----END PRIVATE KEY-----\n",
+  "client_email": "travis-new-service-account@travis-console-test.iam.gserviceaccount.com",
+  "client_id": "115560832756987069606",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/travis-new-service-account%40travis-console-test.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
