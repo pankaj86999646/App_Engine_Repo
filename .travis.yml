@@ -11,3 +11,5 @@ deploy:
     branch: main
 script:
   - echo "hello world!!!"
+  - gcloud -q app deploy app.yaml --project="your-project-id" --verbosity="warning"
+
