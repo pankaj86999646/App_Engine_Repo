@@ -1,12 +1,4 @@
 language: python
-python:
-  - "3.7"  # or any version that is compatible
-
-install:
-  - echo "Checking network connectivity..."
-  - ping -c 5 google.com
-  - echo "Installing Google Cloud SDK..."
-  - curl https://sdk.cloud.google.com | bash -s -- --disable-prompts --install-dir=$HOME
 
 deploy:
   provider: gae
