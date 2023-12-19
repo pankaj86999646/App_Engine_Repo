@@ -1,7 +1,10 @@
 language: python
+python:
+  - "3.7"
 install:
   - curl https://sdk.cloud.google.com | bash -s -- --disable-prompts --install-dir=$HOME
   - export PATH=$PATH:$HOME/google-cloud-sdk/bin
+
 
 
 deploy:
