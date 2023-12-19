@@ -1,11 +1,6 @@
 language: python
 python:
 - "3.8"
-before_deploy:
-  - echo $GCLOUD_SERVICE_KEY > ${HOME}/gcloud-service-key.json
-  - gcloud auth activate-service-account --key-file ${HOME}/gcloud-service-key.json
-  - gcloud config set project travis-console-test
-
 deploy:
   provider: gae
   keyfile: $JSON
@@ -16,5 +11,5 @@ deploy:
     branch: main
 script:
   - echo "hello world!!!"
-  - gcloud -q app deploy app.yaml --project="travis-console-test" --verbosity="warning"
+  
 
